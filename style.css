@@ -1,0 +1,61 @@
+@media(max-width: 992px) {
+  .container {
+    width: 700px;
+  }
+}
+
+.montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.lora {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.banner {
+  background-image: url("https://i.pinimg.com/736x/95/26/f0/9526f08c1e26dcb4f6b9afd9d76af8ab.jpg");
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+.banner h1 {
+  font-size: 38px;
+  font-family: "Montserrat", serif;
+}
+.banner p{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+h1 {
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+}
+
+h2{
+  color: #A0A0A0;
+  font-family: "Montserrat", serif;
+  font-weight: normal;
+}
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+.link-medium{
+  background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: italic;
+  text-decoration: none;
+}
